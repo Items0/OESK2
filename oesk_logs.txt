@@ -1,0 +1,100 @@
+E - zwykły pendrive
+F - zewnętrzny HDD
+
+Please insert USB
+USB E removed 
+USB E detected 
+before: 1852735488
+time read: 114215
+17.931094864947685MB/s
+time read: 4913
+416.85324648890696MB/s
+time read: 4941
+414.4909937259664MB/s
+Letter: g
+created fileTests.txt
+after: 1852735488
+time write: 103475
+19.79222034307804MB/s
+Letter: s
+created fileTests.txt
+after: 1852735488
+time write: 102647
+19.951873897922002MB/s
+Letter: r
+created fileTests.txt
+after: 1852735488
+time write: 101319
+20.213385445967685MB/s
+USB E removed 
+USB F detected 
+before: 113313615872
+time read: 9
+227555.55555555556MB/s
+time read: 5
+409600.0MB/s
+time read: 4
+512000.0MB/s
+Letter: l
+created fileTests.txt
+after: 111167180800
+time write: 30380
+67.412771560237MB/s
+Letter: d
+created fileTests.txt
+after: 111167180800
+time write: 30108
+68.02178822904212MB/s
+Letter: s
+created fileTests.txt
+after: 111167180800
+time write: 30499
+67.14974261451195MB/s
+USB F removed 
+USB E detected 
+before: 1852735488
+time read: 114293
+17.918857672823357MB/s
+time read: 4591
+446.09017643214986MB/s
+time read: 4691
+436.5806864208058MB/s
+Letter: e
+created fileTests.txt
+after: 1852735488
+time write: 103708
+19.74775330736298MB/s
+Letter: z
+created fileTests.txt
+after: 1852735488
+time write: 100608
+20.356234096692113MB/s
+Letter: s
+created fileTests.txt
+after: 1852735488
+time write: 104577
+19.58365606204041MB/s
+USB E removed 
+USB E detected 
+before: 1852735488
+time read: 114646
+17.863684733876454MB/s
+time read: 4608
+444.44444444444446MB/s
+time read: 4569
+448.23812650470563MB/s
+Letter: g
+created fileTests.txt
+after: 1852735488
+time write: 98715
+20.746593729423086MB/s
+Letter: b
+created fileTests.txt
+after: 1852735488
+time write: 99736
+20.53421031523221MB/s
+Letter: h
+created fileTests.txt
+after: 1852735488
+time write: 95890
+21.357805819167798MB/s
